@@ -180,4 +180,8 @@ Outputs:
     Value: !Sub 
       - ${PublicAddress}
       - PublicAddress: !GetAtt DockerInstance5.PublicDnsName
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> 2b9211b21cab0bc49714d9631e5f7e820c78e2cc
